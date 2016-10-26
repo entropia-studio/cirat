@@ -1,0 +1,151 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>La Caldereta</name>
+		<description><![CDATA[]]></description>
+		<Folder>
+			<name>Inicio</name>
+			<Placemark>
+				<name>Inicio</name>
+				<styleUrl>#icon-503-62AF44-nodesc</styleUrl>
+				<Point>
+					<coordinates>-0.462386,40.055222,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>La Caldereta</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-0.4640383,40.0495975,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Ruta a la Caldereta</name>
+			<Placemark>
+				<name>Ruta a la Caldereta</name>
+				<styleUrl>#line-CDDC39-4-nodesc</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-0.462386,40.055222,0.0 -0.4629117,40.0550731,0.0 -0.4627079,40.0548925,0.0 -0.462665,40.0549171,0.0 -0.4623914,40.054683,0.0 -0.4623967,40.0545681,0.0 -0.4625791,40.0542971,0.0 -0.4624236,40.0543012,0.0 -0.4622626,40.0543135,0.0 -0.4621339,40.0542889,0.0 -0.4620534,40.0542355,0.0 -0.4620212,40.0541739,0.0 -0.4620373,40.0541082,0.0 -0.4620802,40.0540343,0.0 -0.46215,40.0539357,0.0 -0.4622036,40.0538454,0.0 -0.4622304,40.053751,0.0 -0.4622519,40.0536812,0.0 -0.4622626,40.0536072,0.0 -0.4622465,40.0535292,0.0 -0.4622197,40.0534594,0.0 -0.4621983,40.0533773,0.0 -0.4621768,40.053287,0.0 -0.4621178,40.0531884,0.0 -0.4620749,40.0531145,0.0 -0.462032,40.0530324,0.0 -0.4619783,40.0529544,0.0 -0.4619086,40.0528805,0.0 -0.461812,40.0527778,0.0 -0.4617369,40.0526998,0.0 -0.4616672,40.0526382,0.0 -0.4616028,40.0525889,0.0 -0.4615223,40.0525355,0.0 -0.4614419,40.0524821,0.0 -0.461356,40.0524288,0.0 -0.4612702,40.0523836,0.0 -0.4611683,40.0523713,0.0 -0.4609752,40.0524206,0.0 -0.4608947,40.0524657,0.0 -0.460825,40.0525068,0.0 -0.4607552,40.0525478,0.0 -0.4606801,40.0525848,0.0 -0.460605,40.0526053,0.0 -0.4605353,40.0526382,0.0 -0.4604495,40.0526423,0.0 -0.4603744,40.0526423,0.0 -0.4602832,40.0526628,0.0 -0.4601759,40.0526546,0.0 -0.4601008,40.0526341,0.0 -0.4600579,40.0525766,0.0 -0.460031,40.0525109,0.0 -0.4600793,40.0524493,0.0 -0.4601276,40.0523795,0.0 -0.4601812,40.0523343,0.0 -0.4602349,40.0522809,0.0 -0.4602832,40.0522317,0.0 -0.4603529,40.0521865,0.0 -0.4604387,40.0521331,0.0 -0.4605299,40.0520962,0.0 -0.4605997,40.0519935,0.0 -0.4607284,40.0519114,0.0 -0.460825,40.0518457,0.0 -0.460943,40.0517636,0.0 -0.4610556,40.0516855,0.0 -0.4611629,40.0516363,0.0 -0.4612541,40.0515808,0.0 -0.46134,40.051548,0.0 -0.4614177,40.0515131,0.0 -0.4614875,40.0514966,0.0 -0.4615572,40.0514823,0.0 -0.4616243,40.0514659,0.0 -0.4616779,40.0514823,0.0 -0.461745,40.0514987,0.0 -0.4617986,40.051511,0.0 -0.4618388,40.0515254,0.0 -0.4618576,40.05155,0.0 -0.4619059,40.0515541,0.0 -0.4619676,40.0515192,0.0 -0.4619971,40.051472,0.0 -0.4620051,40.0514248,0.0 -0.4620212,40.0513427,0.0 -0.4620185,40.0512318,0.0 -0.4620373,40.0511764,0.0 -0.4620266,40.0511189,0.0 -0.4620132,40.051086,0.0 -0.4620132,40.051045,0.0 -0.4619944,40.0510059,0.0 -0.4620051,40.0509587,0.0 -0.461981,40.0509136,0.0 -0.4619837,40.0508787,0.0 -0.4619944,40.0508376,0.0 -0.462032,40.0507986,0.0 -0.4620534,40.0507719,0.0 -0.4620776,40.0507308,0.0 -0.4620937,40.0507041,0.0 -0.4621285,40.0506815,0.0 -0.4621902,40.0506651,0.0 -0.4622519,40.0506528,0.0 -0.4623002,40.0506405,0.0 -0.462386,40.0506282,0.0 -0.4624397,40.0506241,0.0 -0.4625174,40.0506138,0.0 -0.4626301,40.0506015,0.0 -0.4627159,40.0505809,0.0 -0.462783,40.0505686,0.0 -0.462909,40.0505317,0.0 -0.4630056,40.0504947,0.0 -0.463078,40.050468,0.0 -0.4631665,40.0504372,0.0 -0.4632336,40.0504126,0.0 -0.4632953,40.05039,0.0 -0.4633489,40.0503674,0.0 -0.4634106,40.0503346,0.0 -0.463483,40.0503038,0.0 -0.4635286,40.0502545,0.0 -0.4635501,40.0502155,0.0 -0.4635796,40.0501724,0.0 -0.4636225,40.050121,0.0 -0.4636601,40.0500779,0.0 -0.4636949,40.050041,0.0 -0.4637378,40.050004,0.0 -0.4637781,40.0499691,0.0 -0.4638156,40.0499219,0.0 -0.4638505,40.0498726,0.0 -0.4638907,40.0498315,0.0 -0.4639229,40.0497864,0.0 -0.4639578,40.0497474,0.0 -0.4639873,40.0497083,0.0 -0.4640141,40.0496632,0.0 -0.4640248,40.0496303,0.0 -0.4640383,40.0495975,0.0</coordinates>
+				</LineString>
+			</Placemark>
+		</Folder>
+		<Style id='icon-503-62AF44-nodesc-normal'>
+			<IconStyle>
+				<color>ff44AF62</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.portear.com/images/cirat/miscel/marker_green.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>Plaza Mayor</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-503-62AF44-nodesc-highlight'>
+			<IconStyle>
+				<color>ff44AF62</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.portear.com/images/cirat/miscel/marker_green.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>Plaza Mayor</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='icon-503-62AF44-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-503-62AF44-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-503-62AF44-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-503-DB4436-nodesc-normal'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.portear.com/images/cirat/miscel/marker_red.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>La Caldereta</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-503-DB4436-nodesc-highlight'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.portear.com/images/cirat/miscel/marker_red.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>La Caldereta</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='icon-503-DB4436-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-503-DB4436-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-503-DB4436-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='line-CDDC39-4-nodesc-normal'>
+			<LineStyle>
+				<color>ff3644DB</color>
+				<width>6</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>La Caldereta</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='line-CDDC39-4-nodesc-highlight'>
+			<LineStyle>
+				<color>ff3644DB</color>
+				<width>8.0</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>La Caldereta</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='line-CDDC39-4-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-CDDC39-4-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-CDDC39-4-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>

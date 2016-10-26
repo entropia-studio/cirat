@@ -1,0 +1,94 @@
+<resources xmlns:xliff="http://schemas.android.com/tools">
+    <string name="app_name">Cirat turismo</string>
+    <string name="back">Volver</string>
+    <string name="navigation_drawer_open">Abrir menú</string>
+    <string name="navigation_drawer_close">Cerrar menú</string>
+
+    <!--Permissions -->
+    <string name="permission_rationale">La localización del dispositivo es necesaria para mostrar
+        la distancia a los puntos de interés y poder orientarte en las rutas</string>
+    <string name="permission_denied">La distancia a los puntos de interés así como tu ubicación en las rutas no se mostrará correctamente</string>
+
+    <string name="action_settings">Ajustes</string>
+
+    <!-- Menu principal -->
+    <string name="que_visitar">¿Qué visitar?</string>
+    <string name="rutas">Rutas</string>
+    <string name="restauracion">Hostelería</string>
+    <string name="aventura">Aventura</string>
+    <string name="fiestas">Fiestas</string>
+    <string name="dormir">Dormir</string>
+    <string name="servicios">Servicios</string>
+    <string name="tiempo">El tiempo</string>
+    <string name="compartir">Compartir</string>
+    <string name="creditos">Créditos</string>
+
+    <!-- Qué visitar -->
+    <string name="desde_aqui">de aquí</string>
+    <string name="title_activity_location_map">Map</string>
+
+    <!-- LocationDetail -->
+    <string name="a">a</string>
+    <string name="de">de</string>
+    <string name="photos">foto</string>
+
+    <!-- Map -->
+    <string name="hybrid_mode">Híbrido</string>
+    <string name="satellite_mode">Satélite</string>
+    <string name="terrain_mode">Relieve</string>
+    <string name="car_mode">Carretera</string>
+    <!-- Map Location Layers to show -->
+    <string name="show_monuments">Mostrar puntos de interés</string>
+    <string name="show_restaurants">Mostrar dónde comer</string>
+    <string name="show_sleep">Mostrar dónde dormir</string>
+    <string name="show_services">Mostrar servicios</string>
+    <!-- Tracks -->
+    <string name="si">Sí</string>
+    <string name="no">No</string>
+    <string name="tracks">Rutas</string>
+    <string name="title_activity_track_detail">Rutas</string>
+    <string name="positive_gradient">Desnivel+</string>
+    <string name="negative_gradient">Desnivel-</string>
+    <string name="max_altitude">Alt. máx</string>
+    <string name="min_altitude">Alt. mín</string>
+    <string name="title_activity_track_map">Mapa de la ruta</string>
+
+    <string name="share_application">http://play.google.com/store/apps/details?id=studio.entropia.ciratturismo Descárgate la mejor aplicación para conocer Cirat en Castellón</string>
+
+    <string name="today">Hoy</string>
+    <!--AEMET XML Parser-->
+    <string name="connection_error">Error de conexión, por favor revisa tu conexión de datos</string>
+    <string name="xml_error">Error en el XML</string>
+    <string name="page_title">Título de la pagina</string>
+    <string name="updated">Actualizado</string>
+    <!--Celebrations -->
+    <string name="del">del</string>
+    <string name="al">al</string>
+    <string name="el">El</string>
+    <string name="title_activity_maps">Map</string>
+
+    <!-- EULA -->
+    <string name="eula">Importante: Esta aplicación contiene partes específicas de trazado de rutas y ubicación de localizaciones al aire libre haciendo uso del software de terceros Google Maps.
+        Entropia Studio no se hace responsable de los posibles errores en la localización o visualización de rutas mostradas en la aplicación.
+        Es responsabilidad del usuario utilizar con precaución los datos aquí mostrados al realizar las rutas o alcanzar las localizaciones descritas.
+        En ningún caso se podrá hacer resposable a Entropia Studio de perjuicios causados durante la realización de dicha actividad al aire libre.</string>
+    <string name="eula_updates"></string>
+
+    <!-- GPS -->
+    <string name="GPS_Advice">El GPS del dispositivo está desactivado, para mostrar la distancia
+        a los puntos de interés y tu ubicación en el mapa es necesario activarlo.
+        ¿Deseas activarlo ahora?</string>
+    <string name="GPS_negative_result">La aplicación no mostrará correctamente la distancia a las ubicaciones ni la posición del usurio</string>
+    <!-- Splashcreen -->
+    <string name="loading_locations">Cargando ubicaciones... </string>
+    <string name="loading_tracks">Cargando rutas... </string>
+    <string name="loading_celebrations">Cargando fiestas... </string>
+    <string name="title_settings_dialog">Ajustes de ubicación</string>
+    <string name="setting">Ajustes</string>
+    <string name="cancel">Cancelar</string>
+    <string name="settings_negative_result">La aplicación no podrá mostrar correctamente la distancia a los puntos de interés o las rutas</string>
+
+</resources>
+
+
+

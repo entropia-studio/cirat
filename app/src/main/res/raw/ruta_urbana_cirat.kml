@@ -1,0 +1,383 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<kml xmlns='http://www.opengis.net/kml/2.2'>
+	<Document>
+		<name>Ruta urbana por Cirat</name>
+		<description><![CDATA[En esta ruta visitaremos la Torre del Conde convertida a oficina de turismo, la iglesia de San Bernardo, el lavadero, la zona de baños, todo ello callejeando por el pueblo.]]></description>
+		<Folder>
+			<name>Plaza Mayor</name>
+			<Placemark>
+				<name>Torre del Conde</name>
+				<styleUrl>#icon-503-DB4436-nodesc</styleUrl>
+				<Point>
+					<coordinates>-0.4624679,40.0553169,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Line 2</name>
+				<styleUrl>#line-A61B4A-2-nodesc</styleUrl>
+				<LineString>
+					<tessellate>1</tessellate>
+					<coordinates>-0.4624679,40.0553169,0.0 -0.4624678,40.0552938,0.0 -0.4624678,40.0552846,0.0 -0.4624785,40.055262,0.0 -0.4624893,40.055223,0.0 -0.462504,40.0552025,0.0 -0.4625295,40.0551871,0.0 -0.4625483,40.0551758,0.0 -0.4625684,40.0551676,0.0 -0.4625952,40.0551594,0.0 -0.462614,40.0551511,0.0 -0.4626355,40.0551419,0.0 -0.4626569,40.0551327,0.0 -0.4626837,40.0551234,0.0 -0.4627012,40.0551183,0.0 -0.4627186,40.0551152,0.0 -0.4627387,40.0551121,0.0 -0.4627669,40.055107,0.0 -0.4627937,40.0551029,0.0 -0.4628205,40.0550998,0.0 -0.4628661,40.0551173,0.0 -0.4629117,40.0551296,0.0 -0.4629453,40.0551214,0.0 -0.4629721,40.0551111,0.0 -0.4629882,40.0550967,0.0 -0.462964,40.0550813,0.0 -0.4629453,40.05507,0.0 -0.4629278,40.0550588,0.0 -0.4629117,40.0550444,0.0 -0.4628997,40.0550351,0.0 -0.462901,40.0550197,0.0 -0.4629198,40.0550064,0.0 -0.4629332,40.05499,0.0 -0.4629466,40.0549766,0.0 -0.4629627,40.0549623,0.0 -0.4629774,40.0549438,0.0 -0.4629841,40.0549253,0.0 -0.4629694,40.0549089,0.0 -0.4629479,40.0548894,0.0 -0.462909,40.0548688,0.0 -0.4628916,40.0548545,0.0 -0.4628715,40.0548442,0.0 -0.4628514,40.0548298,0.0 -0.4628299,40.0548247,0.0 -0.4628085,40.0548257,0.0 -0.462795,40.0548339,0.0 -0.4627749,40.0548432,0.0 -0.4627562,40.0548504,0.0 -0.4627401,40.0548617,0.0 -0.4627213,40.0548709,0.0 -0.4626998,40.0548822,0.0 -0.4626811,40.0548925,0.0 -0.4626663,40.0548986,0.0 -0.4626489,40.0549058,0.0 -0.462622,40.0549212,0.0 -0.4626046,40.0549345,0.0 -0.4625832,40.054951,0.0 -0.4625684,40.0549602,0.0 -0.4625496,40.0549756,0.0 -0.4625362,40.0549859,0.0 -0.4625188,40.0549961,0.0 -0.4625013,40.0550054,0.0 -0.4624799,40.0550146,0.0 -0.462449,40.0550259,0.0 -0.4624276,40.0550341,0.0 -0.4624021,40.0550434,0.0 -0.4623686,40.0550526,0.0 -0.4623377,40.0550608,0.0 -0.4622787,40.0550742,0.0 -0.4622371,40.0550834,0.0 -0.462205,40.0550896,0.0 -0.4621755,40.0550978,0.0 -0.4621392,40.055106,0.0 -0.4620883,40.0551162,0.0 -0.4620413,40.0551245,0.0 -0.4619931,40.0551327,0.0 -0.4619475,40.055146,0.0 -0.4619086,40.0551563,0.0 -0.461867,40.0551635,0.0 -0.4618134,40.0551758,0.0 -0.461753,40.0551901,0.0 -0.4616202,40.0552158,0.0 -0.4615317,40.0552271,0.0 -0.4614539,40.0552374,0.0 -0.4614097,40.0552456,0.0 -0.461348,40.0552528,0.0 -0.4612957,40.055263,0.0 -0.4612394,40.0552723,0.0 -0.4611965,40.0552825,0.0 -0.4611643,40.0552918,0.0 -0.4611401,40.055301,0.0 -0.4611187,40.0553061,0.0 -0.4610892,40.0553154,0.0 -0.4610865,40.0553256,0.0 -0.4611039,40.0553421,0.0 -0.461112,40.0553739,0.0 -0.4611173,40.0553975,0.0 -0.4611361,40.0554386,0.0 -0.4611441,40.0554663,0.0 -0.4611522,40.0554919,0.0 -0.4611562,40.0555114,0.0 -0.4611576,40.055532,0.0 -0.4611576,40.0555546,0.0 -0.4611602,40.0555792,0.0 -0.4611616,40.055612,0.0 -0.4611576,40.0556377,0.0 -0.4611589,40.0556644,0.0 -0.4611643,40.0556962,0.0 -0.4611683,40.055725,0.0 -0.4611629,40.0557486,0.0 -0.4611441,40.055764,0.0 -0.4611066,40.0557722,0.0 -0.4610637,40.0557824,0.0 -0.4610074,40.0557989,0.0 -0.4609671,40.0558204,0.0 -0.460939,40.0558481,0.0 -0.4609282,40.0558697,0.0 -0.4609215,40.0558933,0.0 -0.4609095,40.0559282,0.0 -0.460896,40.05596,0.0 -0.4608893,40.0559857,0.0 -0.4608612,40.0560165,0.0 -0.4608451,40.0560401,0.0 -0.4608344,40.0560812,0.0 -0.4608276,40.056113,0.0 -0.4608196,40.0561612,0.0 -0.4608156,40.0561972,0.0 -0.4608129,40.0562392,0.0 -0.4608075,40.0563244,0.0 -0.4607727,40.0564096,0.0 -0.4607284,40.0564989,0.0 -0.4606882,40.056578,0.0 -0.4606453,40.0566652,0.0 -0.4606171,40.0567258,0.0 -0.4606104,40.0567781,0.0 -0.4606131,40.0568849,0.0 -0.4606386,40.0569414,0.0 -0.4606734,40.057006,0.0 -0.4607137,40.0570666,0.0 -0.4607713,40.0571436,0.0 -0.4608089,40.0572082,0.0 -0.4608303,40.0572534,0.0 -0.4608545,40.0572893,0.0 -0.4608719,40.0573181,0.0 -0.4608692,40.0573407,0.0 -0.4608585,40.0573858,0.0 -0.4608531,40.0574115,0.0 -0.4607405,40.0574289,0.0 -0.4606305,40.0574484,0.0 -0.4605259,40.0574679,0.0 -0.4604146,40.0574854,0.0 -0.4603368,40.0574987,0.0 -0.4603019,40.0575039,0.0 -0.4601692,40.0574536,0.0 -0.4601048,40.0574659,0.0 -0.4600458,40.0574772,0.0 -0.4599412,40.0574957,0.0 -0.4599009,40.0575008,0.0 -0.4598285,40.0575008,0.0 -0.4597427,40.0575018,0.0 -0.4596502,40.0575059,0.0 -0.4595603,40.0575172,0.0 -0.4594812,40.0575326,0.0 -0.4594021,40.0575583,0.0 -0.4593404,40.057587,0.0 -0.45928,40.057624,0.0 -0.4592451,40.0576537,0.0 -0.4592036,40.0576938,0.0 -0.4591767,40.0577276,0.0 -0.459154,40.0577625,0.0 -0.4591352,40.0577954,0.0 -0.4591137,40.0578354,0.0 -0.4591016,40.0578549,0.0 -0.4590936,40.0578714,0.0 -0.459044,40.0578826,0.0 -0.4589514,40.0579011,0.0 -0.4588307,40.0579278,0.0 -0.4587235,40.0579483,0.0 -0.4586309,40.0579658,0.0 -0.4585652,40.0579791,0.0 -0.4585089,40.0579832,0.0 -0.4584311,40.0579699,0.0 -0.4583681,40.0579494,0.0 -0.4583251,40.0579309,0.0 -0.4582728,40.0579093,0.0 -0.4582299,40.0578878,0.0 -0.4581776,40.0578601,0.0 -0.4580998,40.0578211,0.0 -0.4580355,40.0578118,0.0 -0.4579765,40.0577954,0.0 -0.4579175,40.0577523,0.0 -0.4578558,40.0576948,0.0 -0.4577887,40.0576312,0.0 -0.4577351,40.0575819,0.0 -0.4576868,40.0575326,0.0 -0.4576519,40.0574751,0.0 -0.4576278,40.0574259,0.0 -0.457609,40.0573561,0.0 -0.4576144,40.0572986,0.0 -0.4576331,40.057239,0.0 -0.4576761,40.0571877,0.0 -0.4577404,40.0571446,0.0 -0.4577914,40.0570994,0.0 -0.4578209,40.0570645,0.0 -0.4578504,40.0570317,0.0 -0.4578799,40.057005,0.0 -0.4579121,40.0569742,0.0 -0.4579496,40.0569373,0.0 -0.4579791,40.0569106,0.0 -0.457947,40.0569065,0.0 -0.4579067,40.0569393,0.0 -0.4578584,40.0569824,0.0 -0.4578075,40.0570337,0.0 -0.4577619,40.0570769,0.0 -0.4577109,40.0571302,0.0 -0.4576546,40.0571733,0.0 -0.4576224,40.0572062,0.0 -0.4575983,40.0572473,0.0 -0.4575822,40.0572945,0.0 -0.4575822,40.0573458,0.0 -0.4575875,40.0574012,0.0 -0.457609,40.0574608,0.0 -0.4576358,40.0575182,0.0 -0.4576868,40.0575757,0.0 -0.4577351,40.057625,0.0 -0.4578021,40.0576866,0.0 -0.457845,40.0577338,0.0 -0.4579094,40.0577851,0.0 -0.4579496,40.0578241,0.0 -0.4579711,40.0578467,0.0 -0.4579845,40.0578878,0.0 -0.458014,40.057937,0.0 -0.4580569,40.0579617,0.0 -0.458124,40.0580007,0.0 -0.4581669,40.0580274,0.0 -0.4582098,40.0580787,0.0 -0.4582366,40.0581115,0.0 -0.4582796,40.0581341,0.0 -0.4583493,40.0581506,0.0 -0.4584351,40.0581649,0.0 -0.4584995,40.0581813,0.0 -0.4585961,40.0582019,0.0 -0.4586765,40.0582162,0.0 -0.4587597,40.0582347,0.0 -0.4588187,40.0582491,0.0 -0.4588884,40.0582676,0.0 -0.4589662,40.058286,0.0 -0.4590333,40.0583066,0.0 -0.4591593,40.0583374,0.0 -0.45928,40.0583497,0.0 -0.4593658,40.0583476,0.0 -0.4594678,40.0583456,0.0 -0.459559,40.0583374,0.0 -0.4596502,40.0583312,0.0 -0.4597306,40.0583189,0.0 -0.4598191,40.0582963,0.0 -0.459905,40.0582696,0.0 -0.4599908,40.0582388,0.0 -0.4600632,40.0582183,0.0 -0.4601598,40.0582162,0.0 -0.4602483,40.0582204,0.0 -0.4603314,40.0582327,0.0 -0.460428,40.0582532,0.0 -0.4607928,40.0583168,0.0 -0.4609188,40.0583538,0.0 -0.4610476,40.0582491,0.0 -0.4611388,40.0581588,0.0 -0.461238,40.0580705,0.0 -0.4613265,40.0579966,0.0 -0.4613265,40.0579453,0.0 -0.4612541,40.0579719,0.0 -0.4612005,40.0579966,0.0 -0.4611281,40.0580151,0.0 -0.4610449,40.0580192,0.0 -0.4609779,40.058011,0.0 -0.4609296,40.0579945,0.0 -0.4609135,40.0579658,0.0 -0.4609162,40.0579288,0.0 -0.460892,40.0579021,0.0 -0.4608732,40.0578652,0.0 -0.4608706,40.0578221,0.0 -0.4608759,40.0577933,0.0 -0.4608786,40.0577564,0.0 -0.460884,40.0577318,0.0 -0.4608813,40.057703,0.0 -0.4608786,40.0576722,0.0 -0.4608706,40.0576332,0.0 -0.4608625,40.0575963,0.0 -0.4608518,40.0575634,0.0 -0.4608437,40.0575285,0.0 -0.4608384,40.0575039,0.0 -0.4608303,40.0574669,0.0 -0.4608357,40.0574443,0.0 -0.4608598,40.0574279,0.0 -0.4608813,40.0574115,0.0 -0.4609162,40.0573992,0.0 -0.4609671,40.0573889,0.0 -0.4610154,40.0573807,0.0 -0.4610637,40.0573704,0.0 -0.4610878,40.0573314,0.0 -0.4611066,40.0572924,0.0 -0.46112,40.0572616,0.0 -0.4611441,40.0572329,0.0 -0.4611683,40.0572021,0.0 -0.4612005,40.0571508,0.0 -0.4612246,40.0571118,0.0 -0.4612514,40.0570686,0.0 -0.4612756,40.0570317,0.0 -0.4613239,40.0570194,0.0 -0.4613829,40.0570173,0.0 -0.4614499,40.0570173,0.0 -0.4615062,40.0570071,0.0 -0.4615599,40.0570009,0.0 -0.4616055,40.0569865,0.0 -0.4616538,40.0569783,0.0 -0.4616967,40.0569722,0.0 -0.4617423,40.0569557,0.0 -0.4617959,40.0569331,0.0 -0.4618227,40.0569085,0.0 -0.4618227,40.0568757,0.0 -0.4618147,40.0568428,0.0 -0.4618067,40.05681,0.0 -0.4617959,40.0567792,0.0 -0.4617852,40.0567545,0.0 -0.4618013,40.0567381,0.0 -0.4617959,40.0567114,0.0 -0.4617798,40.0566806,0.0 -0.4617611,40.056658,0.0 -0.4617369,40.0566314,0.0 -0.4617155,40.0565985,0.0 -0.4616967,40.0565657,0.0 -0.4616699,40.0565226,0.0 -0.4616484,40.0564835,0.0 -0.4616323,40.0564548,0.0 -0.4616109,40.0564137,0.0 -0.4615974,40.0563829,0.0 -0.4615921,40.056348,0.0 -0.4615894,40.056309,0.0 -0.461576,40.0562741,0.0 -0.461576,40.0562475,0.0 -0.4615787,40.0562208,0.0 -0.4615894,40.056192,0.0 -0.4616028,40.0561571,0.0 -0.4616135,40.056114,0.0 -0.4616216,40.056075,0.0 -0.4616323,40.056038,0.0 -0.4616404,40.055999,0.0 -0.4616511,40.05596,0.0 -0.4616618,40.0559292,0.0 -0.4616699,40.0558902,0.0 -0.4616779,40.0558574,0.0 -0.4616913,40.0558245,0.0 -0.4617074,40.0557855,0.0 -0.4617369,40.0557445,0.0 -0.4617476,40.0557116,0.0 -0.4617611,40.0556767,0.0 -0.4617798,40.0556336,0.0 -0.4617986,40.0556008,0.0 -0.4617959,40.0555638,0.0 -0.4617906,40.0555351,0.0 -0.4617825,40.0554919,0.0 -0.4617718,40.055455,0.0 -0.4617664,40.0554201,0.0 -0.4617664,40.0553913,0.0 -0.4617852,40.0553626,0.0 -0.4618254,40.0553503,0.0 -0.4618844,40.0553359,0.0 -0.46193,40.0553195,0.0 -0.4619756,40.0553133,0.0 -0.4620185,40.0553031,0.0 -0.4620561,40.0552887,0.0 -0.4621258,40.0552784,0.0 -0.4621768,40.0552682,0.0 -0.4622385,40.0552558,0.0 -0.4622841,40.0552579,0.0 -0.4623324,40.0552661,0.0 -0.4623619,40.0552784,0.0 -0.4623914,40.0552928,0.0 -0.4624182,40.0553051,0.0 -0.4624397,40.0553195,0.0</coordinates>
+				</LineString>
+			</Placemark>
+			<Placemark>
+				<name>Fin del recorrido</name>
+				<styleUrl>#icon-503-62AF44-nodesc</styleUrl>
+				<Point>
+					<coordinates>-0.4624397,40.0553195,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Folder>
+			<name>Monumentos</name>
+			<Placemark>
+				<name>Iglesia de San Bernardo</name>
+				<styleUrl>#icon-1231-nodesc</styleUrl>
+				<Point>
+					<coordinates>-0.4629882,40.0550967,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Zona de baño</name>
+				<styleUrl>#icon-1395-nodesc</styleUrl>
+				<Point>
+					<coordinates>-0.4573475,40.0571446,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Zona de baño</name>
+				<styleUrl>#icon-1395-nodesc</styleUrl>
+				<Point>
+					<coordinates>-0.4580596,40.0582193,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Lavadero</name>
+				<styleUrl>#icon-1271-nodesc</styleUrl>
+				<Point>
+					<coordinates>-0.4608464,40.0579196,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Parque infantil</name>
+				<styleUrl>#icon-1333-nodesc</styleUrl>
+				<Point>
+					<coordinates>-0.4617772,40.0566211,0.0</coordinates>
+				</Point>
+			</Placemark>
+			<Placemark>
+				<name>Farmacia</name>
+				<styleUrl>#icon-1047-nodesc</styleUrl>
+				<Point>
+					<coordinates>-0.462162,40.0552692,0.0</coordinates>
+				</Point>
+			</Placemark>
+		</Folder>
+		<Style id='icon-1047-nodesc-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1047-biz-medical.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>Farmacia</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-1047-nodesc-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1047-biz-medical.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>Farmacia</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='icon-1047-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-1047-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-1047-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-1231-nodesc-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1231-poi-barn.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>Iglesia de San Bernardo</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-1231-nodesc-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1231-poi-barn.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>Iglesia de San Bernardo</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='icon-1231-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-1231-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-1231-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-1271-nodesc-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1271-poi-housing-development.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>Lavadero</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-1271-nodesc-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1271-poi-housing-development.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>Lavadero</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='icon-1271-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-1271-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-1271-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-1333-nodesc-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1333-poi-school.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>Parque infantil</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-1333-nodesc-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1333-poi-school.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>Parque infantil</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='icon-1333-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-1333-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-1333-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-1395-nodesc-normal'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1395-rec-swim.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>Zona de baño</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-1395-nodesc-highlight'>
+			<IconStyle>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.gstatic.com/mapspro/images/stock/1395-rec-swim.png</href>
+				</Icon>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>Zona de baño</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='icon-1395-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-1395-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-1395-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-503-62AF44-nodesc-normal'>
+			<IconStyle>
+				<color>ff44AF62</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.portear.com/images/cirat/miscel/marker_green.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>Torre del Conde</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-503-62AF44-nodesc-highlight'>
+			<IconStyle>
+				<color>ff44AF62</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.portear.com/images/cirat/miscel/marker_green.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>Torre del Conde</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='icon-503-62AF44-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-503-62AF44-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-503-62AF44-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='icon-503-DB4436-nodesc-normal'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.portear.com/images/cirat/miscel/marker_red.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>0.0</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>Fin del recorrido</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='icon-503-DB4436-nodesc-highlight'>
+			<IconStyle>
+				<color>ff3644DB</color>
+				<scale>1.1</scale>
+				<Icon>
+					<href>http://www.portear.com/images/cirat/miscel/marker_red.png</href>
+				</Icon>
+				<hotSpot x='16' y='31' xunits='pixels' yunits='insetPixels'>
+				</hotSpot>
+			</IconStyle>
+			<LabelStyle>
+				<scale>1.1</scale>
+			</LabelStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>Fin del recorrido</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='icon-503-DB4436-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#icon-503-DB4436-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#icon-503-DB4436-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+		<Style id='line-A61B4A-2-nodesc-normal'>
+			<LineStyle>
+				<color>ff4A1BA6</color>
+				<width>6</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<Style id='line-A61B4A-2-nodesc-highlight'>
+			<LineStyle>
+				<color>ff4A1BA6</color>
+				<width>8</width>
+			</LineStyle>
+			<BalloonStyle>
+				<text><![CDATA[<h3>$[name]</h3>]]></text>
+			</BalloonStyle>
+		</Style>
+		<StyleMap id='line-A61B4A-2-nodesc'>
+			<Pair>
+				<key>normal</key>
+				<styleUrl>#line-A61B4A-2-nodesc-normal</styleUrl>
+			</Pair>
+			<Pair>
+				<key>highlight</key>
+				<styleUrl>#line-A61B4A-2-nodesc-highlight</styleUrl>
+			</Pair>
+		</StyleMap>
+	</Document>
+</kml>

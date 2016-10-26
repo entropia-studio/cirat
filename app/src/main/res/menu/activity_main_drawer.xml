@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single"> "
+        <item
+            android:id="@+id/nav_visitar"
+            android:icon="@mipmap/ic_visitar"
+            android:title="@string/que_visitar" />
+        <item
+            android:id="@+id/nav_rutas"
+            android:icon="@mipmap/ic_rutas"
+            android:title="@string/rutas" />
+        <item
+            android:id="@+id/nav_restauracion"
+            android:icon="@mipmap/ic_restauracion"
+            android:title="@string/restauracion" />
+        <item
+            android:id="@+id/nav_aventura"
+            android:icon="@mipmap/ic_aventura"
+            android:title="@string/aventura" />
+        <item
+            android:id="@+id/nav_fiestas"
+            android:icon="@mipmap/ic_fiestas"
+            android:title="@string/fiestas" />
+        <item
+            android:id="@+id/nav_dormir"
+            android:icon="@mipmap/ic_dormir"
+            android:title="@string/dormir" />
+        <item
+            android:id="@+id/nav_servicios"
+            android:icon="@mipmap/ic_servicios"
+            android:title="@string/servicios" />
+        <item
+            android:id="@+id/nav_tiempo"
+            android:icon="@mipmap/ic_tiempo"
+            android:title="@string/tiempo" />
+    </group>
+
+    <item>
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="@string/compartir" />
+            <item
+                android:id="@+id/nav_credits"
+                android:icon="@mipmap/ic_credits"
+                android:title="@string/creditos"/>
+        </menu>
+    </item>
+
+</menu>
