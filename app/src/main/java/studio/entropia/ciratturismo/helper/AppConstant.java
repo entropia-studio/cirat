@@ -19,11 +19,11 @@ public class AppConstant {
     public static final String URL_IMAGES_TRACKS = URL_IMAGES+"tracks/";
     public static final String URL_IMAGES_AVENTURA = URL_IMAGES+"aventura/";
     public static final String URL_IMAGES_CELEBRATIONS = URL_IMAGES+"celebration/";
-    public static final String URL_AVENTURA = "http://www.somosaventura.es";
+    public static final String URL_AVENTURA = "http://www.somosaventura.com";
     public static final String URL_AMET = "http://www.aemet.es/xml/municipios/localidad_12046.xml";
     public static String REMOTE_RESOLUTION_FOLDER;
 
-    public static final String htmlTextAventura = "<body><p>En <strong>Cirat</strong> podrás disfrutar de un entorno natural inigualable para todo amante del deporte y la naturaleza; rutas de senderismo, BTT,  barrancos, piscinas naturales donde pasar el día en familia y también del deporte de aventura de mano de los mejores profesionales <strong>Ayahuasca Aventuras</strong>.</p>\n" +
+    public static final String htmlTextAventura = "<body><p>En <strong>Cirat</strong> podrás disfrutar de un entorno natural inigualable para todo amante del deporte y la naturaleza; rutas de senderismo, BTT,  barrancos, piscinas naturales donde pasar el día en familia y también del deporte de aventura de mano de los mejores profesionales <strong>Somos Aventura</strong>.</p>\n" +
             "<br></br>\n" +
             "<p>Pioneros en implantar el rafting de aguas bravas en 2008 en el río Mijares y los únicos que ofrecen la actividad más X-treme en éste río de grado III, el <strong>hidrospeed</strong>  en aguas bravas.</p>\n" +
             "· Rafting de aguas bravas\n" +
@@ -35,7 +35,7 @@ public class AppConstant {
             "<br/>· Paintball\n" +
             "<br/>\n" +
             "\n" +
-            "<p><strong>Ayahuasca</strong> se distingue no sólo por su excelencia y la profesionalidad de su equipo humano, que les diferencia, sino también por incluir en sus servicios los <strong>vestuarios</strong>, <strong>traslado a la actividad</strong>, todo el <strong>material necesario</strong>, <strong>guías cualificados</strong>, un trato insuperable a sus clientes  y  uno de los mejores campos de <strong>paintball</strong> y <strong>multiaventura</strong> de la Comunidad Valenciana.</p>\n" +
+            "<p><strong>Somos Aventura</strong> se distingue no sólo por su excelencia y la profesionalidad de su equipo humano, que les diferencia, sino también por incluir en sus servicios los <strong>vestuarios</strong>, <strong>traslado a la actividad</strong>, todo el <strong>material necesario</strong>, <strong>guías cualificados</strong>, un trato insuperable a sus clientes  y  uno de los mejores campos de <strong>paintball</strong> y <strong>multiaventura</strong> de la Comunidad Valenciana.</p>\n" +
             "<p>Somos Aventura… Rafting, Hidrospeed, Barranquismo, Kayak, Paintball, Tirolinas… ¿Cuál es la tuya?</p>" +
             "</body>";
 
